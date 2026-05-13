@@ -5,11 +5,11 @@ public class Teste{
 
         Aluno a1 = new Aluno();
         a1.setAlunoNome("Nillo");
-        a1.setAlunoNota(8.0f);
+        a1.setAlunoNota(8.0);
 
         Aluno a2 = new Aluno();
         a2.setAlunoNome("Emilio");
-        a2.setAlunoNota(6.0f);
+        a2.setAlunoNota(6.0);
 
         turma.addAluno(a1);
         turma.addAluno(a2);
